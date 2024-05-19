@@ -1,0 +1,19 @@
+{
+  "name": "sms_gateway",
+  "version": "1.0.0",
+  "description": "this sms gate way will handle outbound sms messages for the uptime monitor app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AfricasTalking",
+    "SMS"
+  ],
+  "author": "Aideed",
+  "license": "ISC",
+  "dependencies": {
+    "africastalking": "^0.6.7",
+    "express": "^4.19.2"
+  }
+}
