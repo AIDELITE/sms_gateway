@@ -1,0 +1,5 @@
+# Node.js
+node_modules/
+
+# config files contatining sensitive information
+lib/config.js
